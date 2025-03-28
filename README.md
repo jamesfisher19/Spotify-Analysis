@@ -44,10 +44,9 @@ The final dashboard helps visualize listening habits by year, platform, and arti
 
 ## Repo Contents
 
-- `spotify_streaming_data/` – Raw and cleaned data
-- `SQL_queries/` – SQL scripts used for transformations
-- `dashboard/` – Screenshots or PBIX file of the Power BI dashboard
-- `README.md` – Project summary and key insights
+- `[Scripts](https://github.com/jamesfisher19/Spotify-Analysis/tree/main/Scripts)` – SQL scripts used for transformations
+- `[Visualizations](https://github.com/jamesfisher19/Spotify-Analysis/tree/main/Visualizations)` – Dashboards & Visualizations
+- `[Analysis](https://github.com/jamesfisher19/Spotify-Analysis/tree/main/Analysis)` – Project summary and key insights
 
 ---
 
