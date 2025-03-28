@@ -44,7 +44,7 @@ The final dashboard helps visualize listening habits by year, platform, and arti
 
 ## Repo Contents
 
-- `spotify_streaming_data/` – Raw and cleaned data (if sharable)
+- `spotify_streaming_data/` – Raw and cleaned data
 - `SQL_queries/` – SQL scripts used for transformations
 - `dashboard/` – Screenshots or PBIX file of the Power BI dashboard
 - `README.md` – Project summary and key insights
