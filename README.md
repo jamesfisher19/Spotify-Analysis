@@ -47,7 +47,7 @@ The final dashboard helps visualize listening habits by year, platform, and arti
 - **[Scripts](https://github.com/jamesfisher19/Spotify-Analysis/tree/main/Scripts)** – SQL & Python scripts used for transformations
 - **[Visualizations](https://github.com/jamesfisher19/Spotify-Analysis/tree/main/Visualizations)** – Dashboards & Visualizations
 - **[Cleaning](https://github.com/jamesfisher19/Spotify-Analysis/blob/main/Analysis/Cleaning-Process.md)** - Data cleaning process
-- **[Analysis](https://github.com/jamesfisher19/Spotify-Analysis/blob/main/Analysis/analysis.md)** – Project summary and key insights
+- **[Analysis](https://github.com/jamesfisher19/Spotify-Analysis/blob/main/Analysis/Spotify%20Analysis.pdf)** – Project summary and key insights
 
 ---
 
