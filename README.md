@@ -30,6 +30,9 @@ The final dashboard helps visualize listening habits by year, platform, and arti
 - What are my top 5 songs for each year?
 - Which platform do I use the most to stream music?
 - How much of my listening was done while offline?
+- What time of day do I listen in different countries?
+- What time of day do I listen in general?
+- What days of the week have the most playtime?
 
 ---
 
